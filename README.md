@@ -2,6 +2,9 @@
 
 ![calculadora-react](https://github.com/cintra1/Calculadora-React-JS/assets/101955322/8169036d-9e33-4122-afd2-c2fda3851fe4)
 
+## Como acessar
+
+Esse projeto está hospedado no Vercel, clique nesse link para ir para o site: [https://calculadora-react-gilt.vercel.app/](https://calculadora-react-gilt.vercel.app/)
 
 ## Como executar
 
